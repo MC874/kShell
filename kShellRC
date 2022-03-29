@@ -1,0 +1,12 @@
+#kShellRC
+#Coded by KnoX
+
+clear
+python2 $PREFIX/bin/kShell
+
+PS1='[97m┌─[[1;91mKiynox[0;37m@[90m\w[0m]
+└╼> '
+
+echo -e '' 
+echo -e '[97m                                  ──╼> [[41m[1m Authorization [00m[1;97m[1m:[42m PASSED [00m[1;97m] <╾───'
+echo -e ''
